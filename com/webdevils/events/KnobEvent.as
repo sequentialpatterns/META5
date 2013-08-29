@@ -1,0 +1,1 @@
+﻿package com.webdevils.events {	import flash.events.*;		public class KnobEvent extends Event {		public static const UPDATE:String = "update";        public var knob_value:Number;		public function KnobEvent( _type:String, _value:Number ) {            super( _type );            knob_value = _value;        }	}}

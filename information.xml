@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<manual>
+	<item>
+		<title>META5</title>
+		<asset>asset/photo/1.png</asset>
+		<promo> META5 lets you enjoy all your music and video on your Mac or PC. When you want to watch or listen to something, you no longer have to look through your CDs or flip through channels - just go to your computer and open META5. With your entire media collection in your META5 library, you can browse everything faster, organize it all easier, and play anything whenever the mood strikes.
+
+META5 is a proprietary digital media player application, used for playing and organizing digital music and video files. META5 uses Flash CS3 technology that incorporates the more versatile ActionScripting 3 language to create a more interactive musical and visual experience. Artwork is displayed in a slideshow format that is created by the user and then uploaded alongwith the corresponding audio/visual file. The artwork acts a symbol for the folder that contains the corresponding file that glides along the x, y and z-axes in a virtual space.</promo>
+		<recording>Kwansah Madani</recording>
+		<caption>asset/video/information.flv</caption>
+	</item>
+</manual>

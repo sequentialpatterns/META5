@@ -1,0 +1,1 @@
+﻿package com.rimv {		public class SongListItem {		private var _song_url:String;				public function SongListItem( song_url:String ) {			_song_url = song_url;		}				// SongListItem.song_name		public function get song_url():String {			return _song_url; 		}	}}

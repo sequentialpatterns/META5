@@ -1,0 +1,31 @@
+a 
+{
+	color: #00CCFF;
+}
+
+a:hover
+{
+	color: #66FF33;
+}
+
+title
+{
+	color:#FFFF00;
+	font-family: helvetica, arial, times new roman;
+}
+
+description
+{
+	font-family: helvetica tt, arial, times new roman;
+}
+
+note
+{
+	color:#FFFF00;
+}
+
+valid {font-style: bold;}
+
+p {
+	margin: 5px 0px;
+}

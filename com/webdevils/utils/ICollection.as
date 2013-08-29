@@ -1,0 +1,1 @@
+﻿package com.webdevils.utils {	public interface ICollection {		function iterator( type:String = null ):IIterator;	}}
